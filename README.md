@@ -29,6 +29,7 @@ Shortcuts
 * [Lynda](http://www.lynda.com/)
 * [Pluralsight](http://www.pluralsight.com/)
 * [Programmr](http://www.programmr.com/)
+* [SoloLearn](http://www.sololearn.com/)
 * [Treehouse](http://teamtreehouse.com)
 * [Tuts+](http://tutsplus.com/courses)
 * [Udacity](http://www.udacity.com/)
