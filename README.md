@@ -24,6 +24,7 @@ Shortcuts
 * [Code School](http://www.codeschool.com/courses/)
 * [Egghead](http://egghead.io/)
 * [Frontend Masters](http://frontendmasters.com/)
+* [Google (Udacity)] (http://www.udacity.com/google)
 * [Khanacademy](http://www.khanacademy.org/computing)
 * [Learnable](http://learnable.com/)
 * [Lynda](http://www.lynda.com/)
