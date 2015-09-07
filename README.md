@@ -13,6 +13,7 @@ Shortcuts
 ##Interactive
 * [Code](http://code.org/)
 * [Codecademy](http://www.codecademy.com/)
+* [Scratch](https://scratch.mit.edu/)
 * [TheCodePlayer](http://thecodeplayer.com/)
 
 ##Reading
