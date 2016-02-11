@@ -39,6 +39,3 @@ Shortcuts
 
 > Articles, Blogs and Library Documentations are not included in this list.
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/leocaseiro/online-web-development-courses-list/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
