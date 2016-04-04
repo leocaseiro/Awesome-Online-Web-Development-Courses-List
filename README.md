@@ -24,6 +24,7 @@ Shortcuts
 
 ##Video
 * [Code School](http://www.codeschool.com/courses/)
+* [EDX](https://www.edx.org/course/subject/computer-science)
 * [Egghead](http://egghead.io/)
 * [Evented Mind](https://www.eventedmind.com/)
 * [Frontend Masters](http://frontendmasters.com/)
@@ -32,6 +33,7 @@ Shortcuts
 * [Laracasts](https://laracasts.com/)
 * [Lynda](http://www.lynda.com/)
 * [Mijingo](https://mijingo.com)
+* [Platzi](https://courses.platzi.com/)
 * [Pluralsight](http://www.pluralsight.com/)
 * [Programmr](http://www.programmr.com/)
 * [SoloLearn](http://www.sololearn.com/)
