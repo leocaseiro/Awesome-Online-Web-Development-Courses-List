@@ -38,6 +38,7 @@ Shortcuts
 * [Programmr](http://www.programmr.com/)
 * [SoloLearn](http://www.sololearn.com/)
 * [SitePoint](http://www.sitepoint.com/)
+* [Stone River eLearning](http://stoneriverelearning.com/)
 * [Tagtree](http://tagtree.tv)
 * [Treehouse](http://teamtreehouse.com)
 * [Tuts+](http://tutsplus.com/courses)
