@@ -18,11 +18,13 @@ Shortcuts
 * [TheCodePlayer](http://thecodeplayer.com/)
 
 ##Reading
+* [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 * [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/)
 * [O'Reilly School] (http://www.oreillyschool.com/browse-by-subject)
 
 
 ##Video
+* [Alison](https://alison.com/learn/programming)
 * [Code School](http://www.codeschool.com/courses/)
 * [EDX](https://www.edx.org/course/subject/computer-science)
 * [Egghead](http://egghead.io/)
@@ -33,6 +35,9 @@ Shortcuts
 * [Laracasts](https://laracasts.com/)
 * [Lynda](http://www.lynda.com/)
 * [Mijingo](https://mijingo.com)
+* [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+* [MOZ (SEO)](https://moz.com/academy)
+* [Open Culture](http://www.openculture.com/freeonlinecourses#Computer Science Courses)
 * [Platzi](https://courses.platzi.com/)
 * [Pluralsight](http://www.pluralsight.com/)
 * [Programmr](http://www.programmr.com/)
