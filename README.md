@@ -41,6 +41,7 @@ Shortcuts
 * [Platzi](https://courses.platzi.com/)
 * [Pluralsight](http://www.pluralsight.com/)
 * [Programmr](http://www.programmr.com/)
+* [Scotch](https://school.scotch.io/courses)
 * [SoloLearn](http://www.sololearn.com/)
 * [SitePoint](http://www.sitepoint.com/)
 * [Stone River eLearning](http://stoneriverelearning.com/)
