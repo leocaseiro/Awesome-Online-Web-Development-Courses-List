@@ -20,7 +20,8 @@ Shortcuts
 ##Reading
 * [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 * [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/)
-* [O'Reilly School] (http://www.oreillyschool.com/browse-by-subject)
+* [O'Reilly School](http://www.oreillyschool.com/browse-by-subject)
+* [PACKT Books](https://www.packtpub.com/all-books)
 
 
 ##Video
@@ -38,6 +39,7 @@ Shortcuts
 * [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 * [MOZ (SEO)](https://moz.com/academy)
 * [Open Culture](http://www.openculture.com/freeonlinecourses#Computer Science Courses)
+* [PACKT Videos](https://www.packtpub.com/videos)
 * [Platzi](https://courses.platzi.com/)
 * [Pluralsight](http://www.pluralsight.com/)
 * [Programmr](http://www.programmr.com/)
