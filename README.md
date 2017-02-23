@@ -27,6 +27,7 @@ Shortcuts
 ##Video
 * [Alison](https://alison.com/learn/programming)
 * [Code School](http://www.codeschool.com/courses/)
+* [CS50 at Harvard](https://cs50.harvard.edu/weeks) (Computer Science)
 * [EDX](https://www.edx.org/course/subject/computer-science)
 * [Egghead](http://egghead.io/)
 * [Evented Mind](https://www.eventedmind.com/)
