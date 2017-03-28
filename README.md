@@ -47,6 +47,7 @@ Shortcuts
 * [Scotch](https://school.scotch.io/courses)
 * [SoloLearn](http://www.sololearn.com/)
 * [SitePoint](http://www.sitepoint.com/)
+* [SkillShare](http://skillshare.com/)
 * [Stone River eLearning](http://stoneriverelearning.com/)
 * [Tagtree](http://tagtree.tv)
 * [Treehouse](http://teamtreehouse.com)
