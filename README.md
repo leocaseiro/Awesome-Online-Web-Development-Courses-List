@@ -10,21 +10,21 @@ Shortcuts
 * [Video](#video)
 
 
-##Interactive
+## Interactive
 * [Code](http://code.org/)
 * [Codecademy](http://www.codecademy.com/)
 * [Dash - General Assembly](https://dash.generalassemb.ly/)
 * [Scratch](https://scratch.mit.edu/)
 * [TheCodePlayer](http://thecodeplayer.com/)
 
-##Reading
+## Reading
 * [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 * [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/)
 * [O'Reilly School](http://www.oreillyschool.com/browse-by-subject)
 * [PACKT Books](https://www.packtpub.com/all-books)
 
 
-##Video
+## Video
 * [Alison](https://alison.com/learn/programming)
 * [Code School](http://www.codeschool.com/courses/)
 * [CS50 at Harvard](https://cs50.harvard.edu/weeks) (Computer Science)
