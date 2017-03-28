@@ -39,7 +39,7 @@ Shortcuts
 * [Mijingo](https://mijingo.com)
 * [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 * [MOZ (SEO)](https://moz.com/academy)
-* [Open Culture](http://www.openculture.com/freeonlinecourses#Computer Science Courses)
+* [Open Culture](http://www.openculture.com/freeonlinecourses)
 * [PACKT Videos](https://www.packtpub.com/videos)
 * [Platzi](https://courses.platzi.com/)
 * [Pluralsight](http://www.pluralsight.com/)
