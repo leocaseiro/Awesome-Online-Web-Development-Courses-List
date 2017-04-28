@@ -24,7 +24,7 @@ Shortcuts
 * [PACKT Books](https://www.packtpub.com/all-books)
 
 
-## Video
+## Videogf
 * [Alison](https://alison.com/learn/programming)
 * [Code School](http://www.codeschool.com/courses/)
 * [CS50 at Harvard](https://cs50.harvard.edu/weeks) (Computer Science)
@@ -32,6 +32,7 @@ Shortcuts
 * [Egghead](http://egghead.io/)
 * [Evented Mind](https://www.eventedmind.com/)
 * [Frontend Masters](http://frontendmasters.com/)
+* [Forward](https://forwardcourses.com/)
 * [Google (Udacity)](http://www.udacity.com/google)
 * [Khan Academy](http://www.khanacademy.org/computing)
 * [Laracasts](https://laracasts.com/)
