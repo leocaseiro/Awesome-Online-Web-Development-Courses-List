@@ -24,7 +24,7 @@ Shortcuts
 * [PACKT Books](https://www.packtpub.com/all-books)
 
 
-## Videogf
+## Video
 * [Alison](https://alison.com/learn/programming)
 * [Code School](http://www.codeschool.com/courses/)
 * [CS50 at Harvard](https://cs50.harvard.edu/weeks) (Computer Science)
@@ -58,4 +58,7 @@ Shortcuts
 * [Udemy](http://www.udemy.com/)
 
 > Articles, Blogs and Library Documentations are not included in this list.
+
+### License
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
