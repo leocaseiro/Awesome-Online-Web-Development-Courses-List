@@ -30,6 +30,7 @@ Shortcuts
 * [CS50 at Harvard](https://cs50.harvard.edu/weeks) (Computer Science)
 * [EDX](https://www.edx.org/course/subject/computer-science)
 * [Egghead](http://egghead.io/)
+* [Educative](http://www.educative.io/)
 * [Evented Mind](https://www.eventedmind.com/)
 * [Frontend Masters](http://frontendmasters.com/)
 * [Forward](https://forwardcourses.com/)
