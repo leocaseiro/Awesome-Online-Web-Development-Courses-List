@@ -25,6 +25,7 @@ Shortcuts
 
 
 ## Video
+* [3D Buzz](www.3dbuzz.com)
 * [Alison](https://alison.com/learn/programming)
 * [Code School](http://www.codeschool.com/courses/)
 * [CS50 at Harvard](https://cs50.harvard.edu/weeks) (Computer Science)
@@ -32,6 +33,7 @@ Shortcuts
 * [Egghead](http://egghead.io/)
 * [Educative](http://www.educative.io/)
 * [Evented Mind](https://www.eventedmind.com/)
+* [Future Learn](https://www.futurelearn.com/courses/categories/tech-and-coding-courses)
 * [Frontend Masters](http://frontendmasters.com/)
 * [Forward](https://forwardcourses.com/)
 * [Google (Udacity)](http://www.udacity.com/google)
@@ -42,6 +44,7 @@ Shortcuts
 * [Mijingo](https://mijingo.com)
 * [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 * [MOZ (SEO)](https://moz.com/academy)
+* [Nodecasts](http://nodecasts.io)
 * [Open Culture](http://www.openculture.com/freeonlinecourses)
 * [PACKT Videos](https://www.packtpub.com/videos)
 * [Platzi](https://courses.platzi.com/)
