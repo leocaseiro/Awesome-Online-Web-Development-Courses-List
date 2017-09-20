@@ -44,6 +44,7 @@ Shortcuts
 * [Mijingo](https://mijingo.com)
 * [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 * [MOZ (SEO)](https://moz.com/academy)
+* [Nativescripting](http://nativescripting.com)
 * [Nodecasts](http://nodecasts.io)
 * [Open Culture](http://www.openculture.com/freeonlinecourses)
 * [PACKT Videos](https://www.packtpub.com/videos)
@@ -60,6 +61,7 @@ Shortcuts
 * [Tuts+](http://tutsplus.com/courses)
 * [Udacity](http://www.udacity.com/)
 * [Udemy](http://www.udemy.com/)
+* [Ultimate Angular](http://ultimateangular.com)
 
 > Articles, Blogs and Library Documentations are not included in this list.
 
