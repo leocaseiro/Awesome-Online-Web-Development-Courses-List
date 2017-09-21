@@ -13,6 +13,7 @@ Shortcuts
 ## Interactive
 * [Code](http://code.org/)
 * [Codecademy](http://www.codecademy.com/)
+* [Codelabs](https://codelabs.developers.google.com)
 * [Dash - General Assembly](https://dash.generalassemb.ly/)
 * [Scratch](https://scratch.mit.edu/)
 * [TheCodePlayer](http://thecodeplayer.com/)
