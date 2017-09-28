@@ -12,6 +12,7 @@ Shortcuts
 
 ## Interactive
 * [Code](http://code.org/)
+* [Code Avengers](https://www.codeavengers.com/)
 * [Codecademy](http://www.codecademy.com/)
 * [Codelabs](https://codelabs.developers.google.com)
 * [Dash - General Assembly](https://dash.generalassemb.ly/)
@@ -30,6 +31,7 @@ Shortcuts
 * [Alison](https://alison.com/learn/programming)
 * [Code School](http://www.codeschool.com/courses/)
 * [CS50 at Harvard](https://cs50.harvard.edu/weeks) (Computer Science)
+* [Coursera](https://www.coursera.org/browse/computer-science) (Computer Science)
 * [EDX](https://www.edx.org/course/subject/computer-science)
 * [Egghead](http://egghead.io/)
 * [Educative](http://www.educative.io/)
@@ -45,6 +47,7 @@ Shortcuts
 * [Mijingo](https://mijingo.com)
 * [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 * [MOZ (SEO)](https://moz.com/academy)
+* [MVA (Microsoft Virtual Academy)](https://mva.microsoft.com/)
 * [Nativescripting](http://nativescripting.com)
 * [Nodecasts](http://nodecasts.io)
 * [Open Culture](http://www.openculture.com/freeonlinecourses)
