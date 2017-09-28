@@ -28,6 +28,7 @@ Shortcuts
 
 ## Video
 * [3D Buzz](www.3dbuzz.com)
+* [Academic Earth (Computer Science)](http://academicearth.org/computer-science/)
 * [Alison](https://alison.com/learn/programming)
 * [Code School](http://www.codeschool.com/courses/)
 * [CS50 at Harvard](https://cs50.harvard.edu/weeks) (Computer Science)
@@ -66,6 +67,7 @@ Shortcuts
 * [Udacity](http://www.udacity.com/)
 * [Udemy](http://www.udemy.com/)
 * [Ultimate Angular](http://ultimateangular.com)
+* [Upskill](http://upskillcourses.com/)
 
 > Articles, Blogs and Library Documentations are not included in this list.
 
