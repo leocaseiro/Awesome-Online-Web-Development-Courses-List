@@ -35,6 +35,7 @@ Shortcuts
 * [Coursera](https://www.coursera.org/browse/computer-science) (Computer Science)
 * [EDX](https://www.edx.org/course/subject/computer-science)
 * [Egghead](http://egghead.io/)
+* [Eduonix](https://www.eduonix.com/courses)
 * [Educative](http://www.educative.io/)
 * [Evented Mind](https://www.eventedmind.com/)
 * [Future Learn](https://www.futurelearn.com/courses/categories/tech-and-coding-courses)
