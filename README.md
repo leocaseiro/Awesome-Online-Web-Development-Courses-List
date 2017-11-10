@@ -69,6 +69,7 @@ Shortcuts
 * [Udemy](http://www.udemy.com/)
 * [Ultimate Angular](http://ultimateangular.com)
 * [Upskill](http://upskillcourses.com/)
+* [Watch and Code](https://watchandcode.com/)
 
 > Articles, Blogs and Library Documentations are not included in this list.
 
