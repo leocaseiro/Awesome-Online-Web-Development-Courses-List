@@ -71,6 +71,7 @@ Shortcuts
 * [Ultimate Angular](http://ultimateangular.com)
 * [Upskill](http://upskillcourses.com/)
 * [Watch and Code](https://watchandcode.com/)
+* [Zenva](https://academy.zenva.com)
 
 > Articles, Blogs and Library Documentations are not included in this list.
 
