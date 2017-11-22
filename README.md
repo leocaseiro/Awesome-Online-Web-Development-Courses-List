@@ -53,6 +53,7 @@ Shortcuts
 * [MVA (Microsoft Virtual Academy)](https://mva.microsoft.com/)
 * [Nativescripting](http://nativescripting.com)
 * [Nodecasts](http://nodecasts.io)
+* [Node University](https://node.university/)
 * [Open Culture](http://www.openculture.com/freeonlinecourses)
 * [PACKT Videos](https://www.packtpub.com/videos)
 * [Platzi](https://courses.platzi.com/)
