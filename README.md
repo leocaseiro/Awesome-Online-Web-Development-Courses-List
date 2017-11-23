@@ -34,6 +34,7 @@ Shortcuts
 * [CS50 at Harvard](https://cs50.harvard.edu/weeks) (Computer Science)
 * [Coursera](https://www.coursera.org/browse/computer-science) (Computer Science)
 * [coursetro](https://coursetro.com)
+* [Devslopes](https://devslopes.com)
 * [EDX](https://www.edx.org/course/subject/computer-science)
 * [Egghead](http://egghead.io/)
 * [Eduonix](https://www.eduonix.com/courses)
