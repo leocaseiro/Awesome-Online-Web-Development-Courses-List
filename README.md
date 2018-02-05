@@ -15,7 +15,8 @@ Shortcuts
 * [Code Avengers](https://www.codeavengers.com/)
 * [Codecademy](http://www.codecademy.com/)
 * [Codelabs](https://codelabs.developers.google.com)
-* [Dash - General Assembly](https://dash.generalassemb.ly/)
+* [Dash - General Assembly](https://dash.generalassemb.ly)
+* [freeCodeCamp](https://www.freecodecamp.org)
 * [Scratch](https://scratch.mit.edu/)
 * [TheCodePlayer](http://thecodeplayer.com/)
 
