@@ -24,7 +24,7 @@ Shortcuts
 * [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 * [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/)
 * [O'Reilly School](http://www.oreillyschool.com/browse-by-subject)
-* [PACKT Books](https://www.packtpub.com/all-books)
+* [Packt Books](https://www.packtpub.com/all-books)
 
 
 ## Video
@@ -57,7 +57,7 @@ Shortcuts
 * [Nodecasts](http://nodecasts.io)
 * [Node University](https://node.university/)
 * [Open Culture](http://www.openculture.com/freeonlinecourses)
-* [PACKT Videos](https://www.packtpub.com/videos)
+* [Packt Publishing](https://www.packtpub.com/)
 * [Platzi](https://courses.platzi.com/)
 * [Pluralsight](http://www.pluralsight.com/)
 * [Programmr](http://www.programmr.com/)
