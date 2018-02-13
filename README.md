@@ -31,6 +31,7 @@ Shortcuts
 * [3D Buzz](www.3dbuzz.com)
 * [Academic Earth (Computer Science)](http://academicearth.org/computer-science/)
 * [Alison](https://alison.com/learn/programming)
+* [Angular Enterprise Playbook](http://angularplaybook.com)
 * [Code School](http://www.codeschool.com/courses/)
 * [CS50 at Harvard](https://cs50.harvard.edu/weeks) (Computer Science)
 * [Coursera](https://www.coursera.org/browse/computer-science) (Computer Science)
